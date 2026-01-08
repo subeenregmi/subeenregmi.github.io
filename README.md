@@ -1,2 +1,4 @@
-# subeen regmis fire tech blog
-here you will find amazing blogs, articles and code snippets :D
+# repo for the best blog
+
+by subeenregmi:)
+
