@@ -1,1 +1,10 @@
 remote_theme: "jekyll/minima"
+
+minima:
+  social_links:
+    - title: github
+      icon: github
+      url: "https://github.com/subeenregmi"
+    - title: youtube
+      icon: x-youtube
+      url: "https://youtube.com/subeenregmi"
