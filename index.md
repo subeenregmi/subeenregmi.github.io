@@ -1,6 +1,10 @@
 ---
 layout: home
-title: home
+title: home 
 ---
 
-here you will find amazing blogs, articles and code snippets :D
+hello! this is subeen regmis tech blog!
+
+here you will find indepth technical blogs, amazing articles and creative code snippets :D
+
+if you find this, let me know [subeenregmi](https://x.com/subeenregmi)! 🔥
