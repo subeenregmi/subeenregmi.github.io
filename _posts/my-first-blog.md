@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "my first blog"
-date: 2026-01-09
 categories: misc
 ---
 
