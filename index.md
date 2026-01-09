@@ -1,6 +1,6 @@
 ---
 layout: home
-title: home of subeen regmi's ideas and thoughts
+title: home
 ---
 
 here you will find amazing blogs, articles and code snippets :D
